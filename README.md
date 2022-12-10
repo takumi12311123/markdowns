@@ -16,5 +16,3 @@ change `input.md` into your markdown file name
 
 pc
 ubuntu 20.04
-
-test by gh cli
